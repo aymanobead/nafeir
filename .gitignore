@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+.env
+
+# Build output
+build/
+dist/
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+.idea/
+
+# Firebase
+firebase-service-account.json
+.firebaserc
+
+# Vercel
+.vercel/
+
+# Logs
+logs/
+*.log
